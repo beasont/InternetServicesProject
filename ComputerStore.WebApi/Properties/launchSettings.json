@@ -1,0 +1,13 @@
+{
+    "profiles": {
+        "ComputerStore.WebApi": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "launchUrl": "",
+            "applicationUrl": "http://localhost:5443",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}
